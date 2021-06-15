@@ -1,1 +1,1 @@
-This is test Feature.
+This is test Feature 2.
